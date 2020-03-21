@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  
+  swimming = ["fly", "back", "breast", "free"]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  swimming 
 end
 
 def add_element_to_start_of_array(array, element)
